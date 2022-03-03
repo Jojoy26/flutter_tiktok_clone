@@ -10,7 +10,7 @@ List<VideoModel> videosList = [
     isLiked: false
   ),
   VideoModel(
-    videoUrl:  "lib/src/videos/video2.mp4",
+    videoUrl: "lib/src/videos/video2.mp4",
     avatar: "https://static.vecteezy.com/ti/vetor-gratis/p1/2275818-avatar-feminino-mulher-perfil-icone-para-rede-vetor.jpg",
     likeCount: 544,
     commentCount: 69,

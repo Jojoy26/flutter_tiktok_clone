@@ -54,7 +54,6 @@ class _TikTokState extends State<TikTok> with SingleTickerProviderStateMixin{
       body: Stack(
         children: [
           PageView.builder(
-            allowImplicitScrolling: false,
             pageSnapping: true,
             onPageChanged: (int i){
               print("IIIIIIIIIIIIIII ${i}");
